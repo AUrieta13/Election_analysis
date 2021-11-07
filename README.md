@@ -36,8 +36,8 @@ After helping Tom and Set submit the election audit results to the election comm
 - After creating a code to breakdown the numbers of votes and percentage of total votes for each county, the results presented below are the outcome from the code created. 
 ![breakdown_county_votes_percentage](https://user-images.githubusercontent.com/90146132/140663666-8b6837e2-ff0c-4cc7-b01e-e1e217d0fd69.PNG)
 ![county_turnout](https://user-images.githubusercontent.com/90146132/140663672-a83d3d47-843e-49a7-a364-520fa3df064d.PNG)
-- Based are the data displayed above, the county with the largest number of votes was Denver. 
-- After creating a code to breakdown the numbers of votes and percentage of total votes for each candidate in the election, the resulted are presented below with the number of votes and the percentage of the total votes each candidate receieved.
+- Based are the data displayed above, the county with the largest number of votes was Denver. *Refer to image above.* 
+- After creating a code to breakdown the numbers of votes and percentage of total votes for each candidate in the election, the resulted are presented below with the number of votes and the percentage of the total votes each candidate receieved. 
 ![breakdown_candidate](https://user-images.githubusercontent.com/90146132/140663865-fde2b14b-0273-4409-a96d-f9af275bb9d5.PNG)
 ![breakdown_county_votes_percentage](https://user-images.githubusercontent.com/90146132/140663870-28338e09-4ed8-4543-9621-67f8a3e51b6d.PNG)
 - The candidate that won the eleceion was Diane DeGette, who had a winning vote count of 272,892 and a winning percentage of 73.8%. *Refer to image above.*
